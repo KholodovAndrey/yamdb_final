@@ -33,6 +33,6 @@ services:
       - web
 
 volumes:
-  database:
+  data_value:
   static_value:
   media_value:
