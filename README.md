@@ -1,6 +1,6 @@
 # API для Yamdb
 Проект API для Yamdb является учебным, в рамках курса Яндекс "Python-разработчик"
-
+http://158.160.49.10
 
 ![example workflow](https://github.com/KholodovAndrey/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
